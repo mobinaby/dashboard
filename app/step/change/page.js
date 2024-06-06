@@ -17,8 +17,8 @@ import { Line } from "rc-progress";
 const order = () => {
   return (
     <>
-      <div className="w-[1210px] p-4 bg-[#FFFFFF] border-gray-200 border-[1px]">
-        <div className="w-[1178px] rounded-md p-4 bg-[#FFFFFF] border-[1px] border-gray-100 shadow-[0px_-2px_2px_0px] shadow-[#28293D26] flex flex-col gap-3">
+      <div className="w-full p-4 bg-[#FFFFFF] border-gray-200 border-[1px]">
+        <div className="w-full rounded-md p-4 bg-[#FFFFFF] border-[1px] border-gray-100 shadow-[0px_-2px_2px_0px] shadow-[#28293D26] flex flex-col gap-3">
           <div className="w-full  border-b-[5px] border-[#D4D4D4] flex justify-between py-5 gap-[254px] ">
             <div className="w-[686px]  flex gap-2.5  ">
               <span className="w-[143px] h-[24px] font-bold text-2xl text-[#425466]">
@@ -80,9 +80,9 @@ const order = () => {
               </div>
               <div className="w-full h-20 flex justify-center items-center">
                 <div className="basis-1/7 w-full h-20 border-l-2 border-[#DDDBDB] bg-[#E4E4E4] flex justify-center items-center">
-                  <span className="w-[64px] h-[24px] font-bold text-base text-[#222222] flex justify-center items-center">
+                  <span className="w-full h-[24px] font-bold text-base text-[#222222] flex justify-center items-center">
                     {" "}
-                    وزن کالا <br /> (کیلو گرم){" "}
+                    وزن کالا  (کیلو گرم){" "}
                   </span>
                 </div>
                 <div className="basis-1/7 w-full h-20 border-l-2 border-[#DDDBDB] font-bold text-xl text-[#545555] flex justify-center items-center">
@@ -148,8 +148,8 @@ const order = () => {
             </div>
             <div className="w-full h-24 pt-3 flex flex-col ">
               <div className="w-full h-[6px] flex  bg-[#EDEDED]"></div>
-              <div className="w-full h-[70px] py-4 flex gap-8 items-center mt-3 ">
-                <div className="w-[263px] h-[38px] flex gap-4 items-center">
+              <div className="w-full h-[70px] py-4 flex gap-8 items-center mt-3 justify-between ">
+                <div className="flex w-[1000px]"><div className="w-[263px] h-[38px] flex gap-4 items-center">
                   <button className="w-[104px] h-[38px] rounded-full bg-[#E74C3C] font-bold text-sm flex items-center text-white justify-center">
                     مرحله جاری
                   </button>
@@ -168,7 +168,8 @@ const order = () => {
                     />
                     <span className="font-bold text-base">تایید</span>
                   </div>
-                </div>
+                </div></div>
+                
                 <button className="w-[129px] h-[38px] rounded-md bg-[#42B42F] text-white font-bold text-lg mr-8">
                   ثبت
                 </button>
@@ -176,10 +177,10 @@ const order = () => {
             </div>
           </div>
           <div className="w-full  rounded-md border-[1px] px-10 flex gap-4 border-[#DDDBDB] shadow-lg flex-col items-center">
-            <div className="w-[1044px] h-[147px] border-b-2 py-8 flex gap-8 border-[#D4D4D4]">
-              <div className=" w-full h-[83px] rounded-xl flex gap-4 shadow-2xl shadow-[#5455557A] items-center justify-center">
-                <div className="h-[51px] w-[1012px] flex justify-between items-center">
-                  <div className="w-[545] flex gap-8 items-center">
+            <div className="w-full h-[147px] border-b-2 py-8 flex gap-8 border-[#D4D4D4]">
+              <div className=" w-full h-[83px] rounded-xl flex gap-4 shadow-2xl shadow-[#5455557A] items-center justify-between p-2">
+                <div className=" w-full flex justify-between items-center">
+                  <div className="w-full flex gap-8 items-center">
                     <div className="w-[47px] h-[41px] py-3 px-4 flex gap-2.5 bg-[#2563EB] rounded-md font-bold text-2xl text-white items-center justify-center">
                       1
                     </div>
