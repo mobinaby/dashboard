@@ -6,6 +6,7 @@ import vector from "../../../public/img/Vector.png";
 
 const packing = () => {
     
+  
     return(   
     <>
     <div className="w-full p-4 bg-[#FFFFFF] border-gray-200 border-[1px]">
