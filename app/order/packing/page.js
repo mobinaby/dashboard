@@ -5,7 +5,8 @@ import vector from "../../../public/img/Vector.png";
 
 
 const packing = () => {
-    return(
+    
+    return(   
     <>
     <div className="w-full p-4 bg-[#FFFFFF] border-gray-200 border-[1px]">
         <div className="w-full rounded-md p-4 bg-[#FFFFFF] border-[1px] border-gray-100 shadow-[0px_-2px_2px_0px] shadow-[#28293D26] flex flex-col gap-3">
