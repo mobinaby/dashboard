@@ -39,8 +39,8 @@ const order = () => {
             </button>
           </div>
 
-          <div className="w-[1146px] rounded-md border-[1px] p-4 border-[#DDDBDB]  flex justify-between">
-            <div className="h-[25px] w-[1082px]">
+          <div className="w-full rounded-md border-[1px] p-4 border-[#DDDBDB]  flex justify-between">
+            <div className="h-[25px] w-full">
               <div className="w-[1042px] flex gap-5">
                 <span className="w-[148px] font-bold text-base text-[#5F4F69] ">
                   پرینت کد رهگیری بسته
@@ -178,7 +178,7 @@ const order = () => {
           </div>
           <div className="w-full  rounded-md border-[1px] px-10 flex gap-4 border-[#DDDBDB] shadow-lg flex-col items-center">
             <div className="w-full h-[147px] border-b-2 py-8 flex gap-8 border-[#D4D4D4]">
-              <div className=" w-full h-[83px] rounded-xl flex gap-4 shadow-2xl shadow-[#5455557A] items-center justify-between p-2">
+              <div className=" w-full h-[83px] rounded-xl flex gap-4 shadow-2xl shadow-[#5455557A] items-center justify-between p-3">
                 <div className=" w-full flex justify-between items-center">
                   <div className="w-full flex gap-8 items-center">
                     <div className="w-[47px] h-[41px] py-3 px-4 flex gap-2.5 bg-[#2563EB] rounded-md font-bold text-2xl text-white items-center justify-center">
@@ -210,10 +210,10 @@ const order = () => {
                 </div>
               </div>
             </div>
-            <div className="w-[1044px] h-[147px] border-b-2 py-8 flex gap-8 border-[#D4D4D4]">
-              <div className=" w-full h-[83px] rounded-xl flex gap-4 shadow-2xl shadow-[#5455557A] items-center justify-center">
-                <div className="h-[51px] w-[1012px] flex justify-between items-center">
-                  <div className="w-[545] flex gap-8 items-center">
+            <div className="w-full h-[147px] border-b-2 py-8 flex gap-8 border-[#D4D4D4]">
+              <div className=" w-full h-[83px] rounded-xl flex gap-4 shadow-2xl shadow-[#5455557A] items-center justify-between p-3">
+                <div className="h-[51px] w-full flex justify-between items-center">
+                  <div className="w-full flex gap-8 items-center">
                     <div className="w-[47px] h-[41px] py-3 px-4 flex gap-2.5 bg-[#2563EB] rounded-md font-bold text-2xl text-white items-center justify-center">
                       2
                     </div>
@@ -243,10 +243,10 @@ const order = () => {
                 </div>
               </div>
             </div>
-            <div className="w-[1044px] h-[147px] border-b-2 py-8 flex gap-8 border-[#D4D4D4]">
-              <div className=" w-full h-[83px] rounded-xl flex gap-4 shadow-2xl shadow-[#5455557A] items-center justify-center">
-                <div className="h-[51px] w-[1012px] flex justify-between items-center">
-                  <div className="w-[545] flex gap-8 items-center">
+            <div className="w-full h-[147px] border-b-2 py-8 flex gap-8 border-[#D4D4D4]">
+              <div className=" w-full h-[83px] rounded-xl flex gap-4 shadow-2xl shadow-[#5455557A] items-center justify-between p-3">
+                <div className="h-[51px] w-full flex justify-between items-center">
+                  <div className="w-full flex gap-8 items-center">
                     <div className="w-[47px] h-[41px] py-3 px-4 flex gap-2.5 bg-[#2563EB] rounded-md font-bold text-2xl text-white items-center justify-center">
                       3
                     </div>
@@ -276,10 +276,10 @@ const order = () => {
                 </div>
               </div>
             </div>
-            <div className="w-[1044px] h-[147px] border-b-2 py-8 flex gap-8 border-[#D4D4D4]">
-              <div className=" w-full h-[83px] rounded-xl flex gap-4 shadow-2xl shadow-[#5455557A] items-center justify-center">
-                <div className="h-[51px] w-[1012px] flex justify-between items-center">
-                  <div className="w-[545] flex gap-8 items-center">
+            <div className="w-full h-[147px] border-b-2 py-8 flex gap-8 border-[#D4D4D4]">
+              <div className=" w-full h-[83px] rounded-xl flex gap-4 shadow-2xl shadow-[#5455557A] items-center justify-between p-3">
+                <div className="h-[51px] w-full flex justify-between items-center">
+                  <div className="w-full flex gap-8 items-center">
                     <div className="w-[47px] h-[41px] py-3 px-4 flex gap-2.5 bg-[#2563EB] rounded-md font-bold text-2xl text-white items-center justify-center">
                       4
                     </div>
@@ -309,10 +309,10 @@ const order = () => {
                 </div>
               </div>
             </div>
-            <div className="w-[1044px] h-[147px] border-b-2 py-8 flex gap-8 border-[#D4D4D4]">
-              <div className=" w-full h-[83px] rounded-xl flex gap-4 shadow-2xl shadow-[#5455557A] items-center justify-center">
-                <div className="h-[51px] w-[1012px] flex justify-between items-center">
-                  <div className="w-[545] flex gap-8 items-center">
+            <div className="w-full h-[147px] border-b-2 py-8 flex gap-8 border-[#D4D4D4]">
+              <div className=" w-full h-[83px] rounded-xl flex gap-4 shadow-2xl shadow-[#5455557A] items-center justify-between p-3 ">
+                <div className="h-[51px] w-full flex justify-between items-center">
+                  <div className="w-full flex gap-8 items-center">
                     <div className="w-[47px] h-[41px] py-3 px-4 flex gap-2.5 bg-[#2563EB] rounded-md font-bold text-2xl text-white items-center justify-center">
                       5
                     </div>
@@ -342,10 +342,10 @@ const order = () => {
                 </div>
               </div>
             </div>
-            <div className="w-[1044px] h-[147px] border-b-2 py-8 flex gap-8 border-[#D4D4D4]">
-              <div className=" w-full h-[83px] rounded-xl flex gap-4 shadow-2xl shadow-[#5455557A] items-center justify-center">
-                <div className="h-[51px] w-[1012px] flex justify-between items-center">
-                  <div className="w-[545] flex gap-8 items-center">
+            <div className="w-full h-[147px] border-b-2 py-8 flex gap-8 border-[#D4D4D4]">
+              <div className=" w-full h-[83px] rounded-xl flex gap-4 shadow-2xl shadow-[#5455557A] items-center justify-between p-3">
+                <div className="h-[51px] w-full flex justify-between items-center">
+                  <div className="w-full flex gap-8 items-center">
                     <div className="w-[47px] h-[41px] py-3 px-4 flex gap-2.5 bg-[#2563EB] rounded-md font-bold text-2xl text-white items-center justify-center">
                       6
                     </div>
@@ -375,10 +375,10 @@ const order = () => {
                 </div>
               </div>
             </div>
-            <div className="w-[1044px] h-[147px] border-b-2 py-8 flex gap-8 border-[#D4D4D4]">
-              <div className=" w-full h-[83px] rounded-xl flex gap-4 shadow-2xl shadow-[#5455557A] items-center justify-center">
-                <div className="h-[51px] w-[1012px] flex justify-between items-center">
-                  <div className="w-[545] flex gap-8 items-center">
+            <div className="w-full h-[147px] border-b-2 py-8 flex gap-8 border-[#D4D4D4]">
+              <div className=" w-full h-[83px] rounded-xl flex gap-4 shadow-2xl shadow-[#5455557A] items-center justify-between p-3">
+                <div className=" w-full flex justify-between items-center">
+                  <div className="w-full flex gap-8 items-center">
                     <div className="w-[47px] h-[41px] py-3 px-4 flex gap-2.5 bg-[#2563EB] rounded-md font-bold text-2xl text-white items-center justify-center">
                       7
                     </div>
@@ -410,13 +410,13 @@ const order = () => {
             </div>
           </div>
         </div>
-        <div className="w-[1178px] h-[648px] flex gap-4 mt-3">
-          <div className="w-[581px] h-[648px] flex gap-2.5">
+        <div className="w-full h-[648px] flex gap-4 mt-3">
+          <div className="w-full h-[648px] flex gap-2.5">
             <Image src={chat} />
           </div>
-          <div className="w-[581px] h-[643px] flex gap-2.5 border-gray-200 border-[1px] rounded-md mt-[2px] items-center justify-center">
-            <div className="w-[549px] h-[616px] flex gap-6 flex-col">
-              <div className=" w-full h-[24px] flex justify-between">
+          <div className="w-full h-[643px] flex gap-2.5 border-gray-200 border-[1px] rounded-md mt-[2px] items-center justify-center">
+            <div className="w-full h-[616px] flex gap-6 flex-col">
+              <div className=" w-full h-[24px] flex justify-between p-3">
                 <span className="font-medium text-xl text-black">
                   وضعیت کلی
                 </span>
@@ -424,18 +424,18 @@ const order = () => {
                   <BsThreeDots />
                 </div>
               </div>
-              <div className="w-full h-[75px] py-4 flex gap-2.5">
-                <button className="w-[176.33px] h-[43px] rounded-md py-2.5 px-4 bg-[#1E63CB] font-medium text-base flex justify-center items-center text-white">
+              <div className="w-full h-[75px] p-4 flex gap-2.5 justify-between">
+                <button className="w-full h-[43px] rounded-md py-2.5 px-4 bg-[#1E63CB] font-medium text-base flex justify-center items-center text-white">
                   در خارج
                 </button>
-                <button className="w-[176.33px] h-[43px] rounded-md py-2.5 px-4 bg-[#E4ECF7] font-medium text-base flex justify-center items-center text-black">
+                <button className="w-full h-[43px] rounded-md py-2.5 px-4 bg-[#E4ECF7] font-medium text-base flex justify-center items-center text-black">
                   در ایران{" "}
                 </button>
-                <button className="w-[176.33px] h-[43px] rounded-md py-2.5 px-4 bg-[#E4ECF7] font-medium text-base flex justify-center items-center text-black">
+                <button className="w-full h-[43px] rounded-md py-2.5 px-4 bg-[#E4ECF7] font-medium text-base flex justify-center items-center text-black">
                   بکاپ{" "}
                 </button>
               </div>
-              <div className="w-full h-[469px] flex flex-col gap-2.5 py-4 justify-between">
+              <div className="w-full h-[469px] flex flex-col gap-2.5 p-5 justify-between">
                 <div className="w-full h-[41px]  ">
                   <div className="flex justify-between p-2">
                     <span className=" font-medium text-sm text-[#425466]">
@@ -488,7 +488,7 @@ const order = () => {
           </div>
         </div>
         <div className="w-full h-[438px] rounded-md p-4 flex gap-6 border-[#28293D33] border-[1px] mt-3 flex-col">
-          <div className="w-[1146px] h-[32px] flex justify-between">
+          <div className="w-full h-[32px] flex justify-between">
             <span className="w-[100px] font-medium text-xl text-black">
               لیست یادآور
             </span>
@@ -499,36 +499,43 @@ const order = () => {
               </div>
             </button>
           </div>
-          <div className="w-[1146px] h-[300px] flex flex-col">
-            <div className="h-[24px] flex gap-4 items-center mt-3">
+          <div className="w-full h-[300px] flex flex-col ">
+            <div className="h-[24px] flex gap-4 items-center mt-3 justify-between">
+              <div className="flex gap-2.5 w-full items-center">
               <input
-                className="w-[24px] rounded border-[1px] border-[#D1D1D6]"
+                className="w-[24px] h-[13px] rounded border-[1px] border-[#D1D1D6]"
                 type="checkbox"
               ></input>
               <div className="w-[1036px] font-light text-sm text-[#475569]">
                 بازگشت سفارش 219941
               </div>
+              </div>
+              
               <div className="w-[52px] flex gap-2">
                 <RiDeleteBinLine className="w-[20px] h-[20px] text-[#475569]" />
                 <PiNotePencil className="w-[20px] h-[20px] text-[#475569]" />
               </div>
             </div>
-            <div className="w-[1146px] border-[1px] border-[#EEF1F9] mt-6"></div>
-            <div className="h-[24px] flex gap-4 items-center mt-4">
+            <div className="w-full border-[1px] border-[#EEF1F9] mt-6"></div>
+            <div className="h-[24px] flex gap-4 items-center mt-4 justify-between">
+              <div className="flex gap-2.5 w-full items-center">
               <input
-                className="w-[24px] rounded border-[1px] border-[#D1D1D6]"
+                className="w-[24px] h-[13px] rounded border-[1px] border-[#D1D1D6]"
                 type="checkbox"
               ></input>
               <div className="w-[1036px] font-light text-sm text-[#475569]">
                 بازگشت سفارش 219941
               </div>
+              </div>
+              
               <div className="w-[52px] flex gap-2">
                 <RiDeleteBinLine className="w-[20px] h-[20px] text-[#475569]" />
                 <PiNotePencil className="w-[20px] h-[20px] text-[#475569]" />
               </div>
             </div>
-            <div className="w-[1146px] border-[1px] border-[#EEF1F9] mt-6"></div>
-            <div className="h-[24px] flex gap-4 items-center mt-4">
+            <div className="w-full border-[1px] border-[#EEF1F9] mt-6"></div>
+            <div className="h-[24px] flex gap-4 items-center mt-4 justify-between">
+              <div className="flex gap-2.5 w-full items-center">
               <input
                 className="w-[24px] rounded border-[1px] border-[#D1D1D6]"
                 type="checkbox"
@@ -536,27 +543,33 @@ const order = () => {
               <div className="w-[1036px] font-light text-sm text-[#475569]">
                 بازگشت سفارش 219941
               </div>
+              </div>
+              
               <div className="w-[52px] flex gap-2">
                 <RiDeleteBinLine className="w-[20px] h-[20px] text-[#475569]" />
                 <PiNotePencil className="w-[20px] h-[20px] text-[#475569]" />
               </div>
             </div>
-            <div className="w-[1146px] border-[1px] border-[#EEF1F9] mt-6"></div>
-            <div className="h-[24px] flex gap-4 items-center mt-4">
-              <input
+            <div className="w-full border-[1px] border-[#EEF1F9] mt-6"></div>
+            <div className="h-[24px] flex gap-4 items-center mt-4 justify-between">
+             <div className="flex gap-2.5 w-full items-center">
+             <input
                 className="w-[24px] rounded border-[1px] border-[#D1D1D6]"
                 type="checkbox"
               ></input>
               <div className="w-[1036px] font-light text-sm text-[#475569]">
                 بازگشت سفارش 219941
               </div>
+             </div>
+              
               <div className="w-[52px] flex gap-2">
                 <RiDeleteBinLine className="w-[20px] h-[20px] text-[#475569]" />
                 <PiNotePencil className="w-[20px] h-[20px] text-[#475569]" />
               </div>
             </div>
-            <div className="w-[1146px] border-[1px] border-[#EEF1F9] mt-6"></div>
-            <div className="h-[24px] flex gap-4 items-center mt-4">
+            <div className="w-full border-[1px] border-[#EEF1F9] mt-6"></div>
+            <div className="h-[24px] flex gap-4 items-center mt-4 justify-between">
+              <div className="flex gap-2.5 w-full items-center">
               <input
                 className="w-[24px] rounded border-[1px] border-[#D1D1D6]"
                 type="checkbox"
@@ -564,13 +577,16 @@ const order = () => {
               <div className="w-[1036px] font-light text-sm text-[#475569]">
                 بازگشت سفارش 219941
               </div>
+              </div>
+              
               <div className="w-[52px] flex gap-2">
                 <RiDeleteBinLine className="w-[20px] h-[20px] text-[#475569]" />
                 <PiNotePencil className="w-[20px] h-[20px] text-[#475569]" />
               </div>
             </div>
-            <div className="w-[1146px] border-[1px] border-[#EEF1F9] mt-6"></div>
-            <div className="h-[24px] flex gap-4 items-center mt-4">
+            <div className="w-full border-[1px] border-[#EEF1F9] mt-6"></div>
+            <div className="h-[24px] flex gap-4 items-center mt-4 justify-between">
+              <div className="flex gap-2.5 w-full items-center">
               <input
                 className="w-[24px] rounded border-[1px] border-[#D1D1D6]"
                 type="checkbox"
@@ -578,6 +594,8 @@ const order = () => {
               <div className="w-[1036px] font-light text-sm text-[#475569]">
                 بازگشت سفارش 219941
               </div>
+              </div>
+              
               <div className="w-[52px] flex gap-2">
                 <RiDeleteBinLine className="w-[20px] h-[20px] text-[#475569]" />
                 <PiNotePencil className="w-[20px] h-[20px] text-[#475569]" />
@@ -585,8 +603,8 @@ const order = () => {
             </div>
           </div>
         </div>
-        <div className="w-full h-[56px] rounded-md p-4 flex gap-4 border-[1px] border-[#28293D33] mt-4 items-center">
-          <div className="w-[1146px] h-6 flex">
+        <div className="w-full h-[56px] rounded-md p-4 flex gap-4 border-[1px] border-[#28293D33] mt-4 items-center justify-between">
+          <div className="w-full h-6 flex">
             <div className="w-full h-[24px] flex gap-2.5 items-center">
               <span className="w-[68px] font-medium text-sm text-black">
                 پنل مدیریت

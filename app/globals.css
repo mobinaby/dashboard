@@ -7,6 +7,15 @@
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
 }
+.checkbox1[type="checkbox"]:checked::before{
+  background-color: red;
+  border: 1px solid black;
+}
+
+.checkbox1[type="checkbox"]{
+  background-color: white;
+  border: 1px solid black;
+}
 
 
 
