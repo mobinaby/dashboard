@@ -2,6 +2,8 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import Header from "./components/layout/header/page";
 import Sidebar from "./components/layout/sidebar/page";
+import 'swiper/css';
+import 'swiper/css/pagination';
 
 const inter = Inter({ subsets: ["latin"] });
 
